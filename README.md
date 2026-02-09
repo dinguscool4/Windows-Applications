@@ -9,6 +9,7 @@ A list of windows applications to download, great tools and utilities with a lis
 [Download AMD Drivers](https://drivers.amd.com/drivers/installer/25.30/whql/amd-software-adrenalin-edition-26.1.1-minimalsetup-260119_web.exe)
 
 `Utility`
+
 [Winhance (Removes Bloatware, Optimization Tab, Personalization Tab)](https://github.com/memstechtips/Winhance/releases/latest/download/Winhance.Installer.exe)
 
 [Notepad++ (Signifigantly better notepad)](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.1/npp.8.9.1.Installer.x64.exe)
