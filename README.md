@@ -37,8 +37,8 @@ A list of windows applications for you to download. with a direct download and a
 
 use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.update.capcut.py) to prevent auto-updates. (recommended 3.9.0)
 
-[Direct Download](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_9_0_1459_capcutpc_0_creatortool.exe)
-[Download Page](https://www.capcut.com/)
+[Direct Download (3.9.0)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_9_0_1459_capcutpc_0_creatortool.exe)
+[Download Page]([https://www.capcut.com/](https://github.com/ProjectBukkit/CapcutVersions))
 
 ### latest capcut
 
