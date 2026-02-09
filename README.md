@@ -14,7 +14,7 @@ A list of windows applications for you to download. with a direct download and a
 [Direct Download](https://drivers.amd.com/drivers/installer/25.30/whql/amd-software-adrenalin-edition-26.1.1-minimalsetup-260119_web.exe)
 [Download Page](https://www.amd.com/en/support)
 
-`Utility`
+## `Utility`
 
 ### Winhance (Removes Bloatware, Optimization Tab, Personalization Tab)
 
@@ -31,7 +31,7 @@ A list of windows applications for you to download. with a direct download and a
 [Direct Download](https://winaerotweaker.com/download/)
 [Download Page](https://winaerotweaker.com/)
 
-`Media Creation`
+## `Media Creation`
 
 ### capcut downgraded
 
@@ -45,14 +45,14 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 [Direct Download](https://www.capcut.com/activity/download_pc)
 [Download Page](https://www.capcut.com/)
 
-`Coding`
+## `Coding`
 
 ### python
 
 [Direct Download](https://www.python.org/ftp/python/pymanager/python-manager-25.2.msix)
 [Download Page](https://www.python.org/downloads/)
 
-`Personalization`
+## `Personalization`
 
 ### windhawk (windows 11 only)
 
