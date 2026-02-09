@@ -2,7 +2,7 @@
 
 A list of windows applications for you to download. with a direct download and a download page provided for each one.
 
-`Graphics Drivers`
+## `Graphics Drivers`
 
 ### Download Nvidia Drivers
 
