@@ -31,6 +31,12 @@ A list of windows applications for you to download. with a direct download and a
 [Direct Download](https://winaerotweaker.com/download/)
 [Download Page](https://winaerotweaker.com/)
 
+### HW-iNFO
+
+[Direct Download](https://www.hwinfo.com/files/hwi64_840.exe)
+[Download Page](https://www.hwinfo.com/download/)
+
+
 ## `Media Creation`
 
 ### capcut downgraded
