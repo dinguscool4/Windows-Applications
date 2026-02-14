@@ -36,7 +36,8 @@ A list of windows applications for you to download. with a direct download and a
 [Direct Download](https://www.hwinfo.com/files/hwi64_840.exe)
 [Download Page](https://www.hwinfo.com/download/)
 
-###RivaTuner
+### RivaTuner
+
 Direct Download Unavaliable
 [Download Page](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download)
 
