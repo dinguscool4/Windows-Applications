@@ -70,3 +70,9 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 [Direct Download](https://ramensoftware.com/downloads/windhawk_setup.exe)
 [Download Page](https://ramensoftware.com/windhawk)
 
+## `Gaming
+
+### virtaul desktop
+
+[Direct Download](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
+[Download Page](https://www.vrdesktop.net/)
