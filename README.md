@@ -2,6 +2,8 @@
 
 A list of windows applications for you to download. with a direct download and a download page provided for each one.
 
+These are ment for windows and MY windows, i dont know about your installation, if you have compatability issues just use the download page.
+
 ## `Graphics Drivers`
 
 ### Download Nvidia Drivers
@@ -13,6 +15,12 @@ A list of windows applications for you to download. with a direct download and a
 
 [Direct Download](https://drivers.amd.com/drivers/installer/25.30/whql/amd-software-adrenalin-edition-26.1.1-minimalsetup-260119_web.exe)
 [Download Page](https://www.amd.com/en/support)
+
+## `Browser`
+
+### Brave
+[Direct Download](https://laptop-updates.brave.com/download/BRV013?bitness=64)
+[Download Page](https://brave.com/download/)
 
 ## `Utility`
 
@@ -72,7 +80,7 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 
 ## `Gaming`
 
-### virtaul desktop
+### Virtaul Desktop
 
 [Direct Download](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
 [Download Page](https://www.vrdesktop.net/)
