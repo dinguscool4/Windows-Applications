@@ -1,8 +1,10 @@
-# Windows Applications
+# New PC Requirements
 
-A list of windows applications for you to download. with a direct download and a download page provided for each one.
+A list of windows applications/extensions/ect for you to download. with a direct download and a download page provided for each one.
 
 These are ment for windows and MY windows, i dont know about your installation, if you have compatability issues just use the download page.
+
+# APPLICATIONS
 
 ## `Graphics Drivers`
 
@@ -84,3 +86,12 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 
 [Direct Download](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
 [Download Page](https://www.vrdesktop.net/)
+
+# EXTENSIONS
+
+## `Youtube`
+
+### Sponsor Block
+
+[Download Page](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
+
