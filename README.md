@@ -24,6 +24,19 @@ These are ment for windows and MY windows, i dont know about your installation, 
 [Direct Download](https://laptop-updates.brave.com/download/BRV013?bitness=64)
 [Download Page](https://brave.com/download/)
 
+## `Communication`
+
+### Discord
+
+[Direct Download](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64)
+[Download Page](https://discord.com/)
+
+### Vesktop (Modified Discord)
+
+[Direct Download](https://vencord.dev/download/vesktop/universal/windows)
+[Download Page](https://vesktop.dev/install/windows/)
+
+
 ## `Utility`
 
 ### Winhance (Removes Bloatware, Optimization Tab, Personalization Tab)
