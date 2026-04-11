@@ -42,7 +42,7 @@ These are ment for windows and MY windows, i dont know about your installation, 
 
 ### Winaero tweaker
 
-[Direct Download](https://winaerotweaker.com/download/)
+Direct Download Not working.
 [Download Page](https://winaerotweaker.com/)
 
 ### HW-iNFO
