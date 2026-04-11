@@ -6,8 +6,6 @@ These are ment for windows and MY windows, i dont know about your installation, 
 
 # APPLICATIONS
 
-## `Graphics Drivers`
-
 ### Download Nvidia Drivers
 
 [Direct Download](https://us.download.nvidia.com/nvapp/client/11.0.6.383/NVIDIA_app_v11.0.6.383.exe)
@@ -18,13 +16,9 @@ These are ment for windows and MY windows, i dont know about your installation, 
 [Direct Download](https://drivers.amd.com/drivers/installer/25.30/whql/amd-software-adrenalin-edition-26.1.1-minimalsetup-260119_web.exe)
 [Download Page](https://www.amd.com/en/support)
 
-## `Browser`
-
 ### Brave
 [Direct Download](https://laptop-updates.brave.com/download/BRV013?bitness=64)
 [Download Page](https://brave.com/download/)
-
-## `Communication`
 
 ### Discord
 
@@ -35,9 +29,6 @@ These are ment for windows and MY windows, i dont know about your installation, 
 
 [Direct Download](https://vencord.dev/download/vesktop/universal/windows)
 [Download Page](https://vesktop.dev/install/windows/)
-
-
-## `Utility`
 
 ### Winhance (Removes Bloatware, Optimization Tab, Personalization Tab)
 
@@ -64,9 +55,6 @@ These are ment for windows and MY windows, i dont know about your installation, 
 Direct Download Unavaliable
 [Download Page](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download)
 
-
-## `Media Creation`
-
 ### capcut downgraded
 
 use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.update.capcut.py) to prevent auto-updates. (recommended 3.9.0)
@@ -79,21 +67,15 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 [Direct Download](https://www.capcut.com/activity/download_pc)
 [Download Page](https://www.capcut.com/)
 
-## `Coding`
-
 ### python
 
 [Direct Download](https://www.python.org/ftp/python/pymanager/python-manager-25.2.msix)
 [Download Page](https://www.python.org/downloads/)
 
-## `Personalization`
-
 ### windhawk (windows 11 only)
 
 [Direct Download](https://ramensoftware.com/downloads/windhawk_setup.exe)
 [Download Page](https://ramensoftware.com/windhawk)
-
-## `Gaming`
 
 ### Virtaul Desktop
 
@@ -105,9 +87,12 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 [Direct Download](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
 [Download Page](https://store.steampowered.com/about/)
 
-# EXTENSIONS
+### Spotify
 
-## `Youtube`
+[Direct Download](download.scdn.co/SpotifySetup.EXE)
+[Download Page]https://open.spotify.com/download
+
+# EXTENSIONS
 
 ### Sponsor Block
 
