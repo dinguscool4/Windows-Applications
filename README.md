@@ -100,6 +100,11 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 [Direct Download](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
 [Download Page](https://www.vrdesktop.net/)
 
+### Steam
+
+[Direct Download](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
+[Download Page](https://store.steampowered.com/about/)
+
 # EXTENSIONS
 
 ## `Youtube`
