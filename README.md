@@ -91,8 +91,7 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 
 [Direct Download](download.scdn.co/SpotifySetup.EXE)
 [Download Page](https://open.spotify.com/download)
-
-Spiceify iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+[Spiceify](https://spicetify.app/#install)
 
 # EXTENSIONS
 
