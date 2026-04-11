@@ -90,7 +90,7 @@ use [noupdate.py](https://github.com/user-attachments/files/25174174/no.auto.upd
 ### Spotify
 
 [Direct Download](download.scdn.co/SpotifySetup.EXE)
-[Download Page]https://open.spotify.com/download
+[Download Page](https://open.spotify.com/download)
 
 # EXTENSIONS
 
